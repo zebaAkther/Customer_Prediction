@@ -4,6 +4,7 @@
 
 ---
 <img width="1440" height="862" alt="Screenshot 2026-04-05 at 8 45 41 PM" src="https://github.com/user-attachments/assets/bcf0ac99-fccf-43e6-ba56-3eccc6570040" />
+
 ## 🧠 Abstract
 
 This project develops a **Customer Prediction System** that leverages machine learning algorithms to predict customer behavior based on historical data. The system aims to identify patterns that can help businesses make **data-driven decisions**, such as customer retention, targeting, and revenue optimization.
